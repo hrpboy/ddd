@@ -8,9 +8,9 @@ pkg update && pkg upgrade
 pkg install git
 rm -rf bxi
 
-git clone https://github.com/binyamin-binni/bxi
+git clone https://github.com/hrpboy/ddd
 
-cd bxi
+cd ddd
 chmod 777 bxi
 ./bxi
 

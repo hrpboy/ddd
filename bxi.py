@@ -7,7 +7,7 @@ print("""
 pkg update && pkg upgrade
 pkg install git
 pkg install python
-rm -rf bxi
+rm -rf ddd
 
 git clone https://github.com/hrpboy/ddd
 
